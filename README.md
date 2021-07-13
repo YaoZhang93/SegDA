@@ -1,2 +1,5 @@
-# SegDA
-A survey of data augmentation methods for image segmentation
+# Data augmentation methods for image segmentation
+---
+|Date|Author(s)|Title|Paper|Code|
+|---|---|---|---|---|
+||||||
